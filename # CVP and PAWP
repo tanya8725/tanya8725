@@ -1,0 +1,32 @@
+# CVP and PAWP information
+cvp = {
+    'normal_value': '2-8 mm Hg',
+    'elevated': 'Increased systemic circulation volume and increased right ventricular preload',
+}
+
+pawp = {
+    'normal_value': '6-12 mm Hg',
+    'elevated': 'Increased left ventricular preload',
+}
+
+# Coarse crackles indication
+crackles = 'In the presence of increased CVP and PAWP, coarse crackles indicate left-sided failure.'
+
+# Treatment goal
+treatment_goal = 'Decrease fluid volume and preload.'
+
+# Loop diuretics information
+loop_diuretics = {
+    'names': ['furosemide', 'bumetanide', 'torsemide'],
+    'effect': 'Decrease both right ventricular preload and left ventricular preload.',
+}
+
+# Incorrect options
+incorrect_options = [
+    'A fluid bolus of 500 mL of sodium chloride is contraindicated in a client with increased left and right ventricular preload as it would exacerbate fluid overload.',
+    'Beta blockers will decrease blood pressure and afterload but not preload.',
+    'Vancomycin is an antibiotic used to treat gram-positive bacterial infections; it has no effect on fluid status.',
+]
+
+# Educational objective
+educational_objective = 'Loop diuretics (e.g., furosemide, bumetanide, torsemide) are effective in decreasing both right ventricular preload and left ventricular preload.'
