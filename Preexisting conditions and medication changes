@@ -1,0 +1,19 @@
+# Preexisting conditions and medication changes
+preexisting_conditions = [
+    'Asthma',
+    'Hypertension',
+    'Diabetes',
+]
+
+# Discontinuation of teratogenic or unnecessary medications
+discontinued_medications = 'Tetracycline antibiotics like doxycycline should be avoided due to potential harm to the fetus. Isotretinoin has a black box warning for severe birth defects and should only be prescribed to women of childbearing age who participate in iPLEDGE and use two forms of contraception. ACE inhibitors like lisinopril have a black box warning for use in pregnancy.'
+
+# Incorrect options
+incorrect_options = [
+    'Albuterol should be continued when medically indicated, especially for severe asthma.',
+    'Insulin is safe for use during pregnancy and commonly used to treat pregestational or gestational diabetes.',
+    'Levothyroxine for hypothyroidism treatment is safe but requires careful monitoring of the appropriate dose during pregnancy.',
+]
+
+# Educational objective
+educational_objective = 'Doxycycline, isotretinoin, and ACE inhibitors are commonly used medications that are absolutely contraindicated in pregnancy due to potential harm to the fetus.'
